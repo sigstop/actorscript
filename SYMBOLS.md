@@ -13,8 +13,9 @@
 |\|->              |message type returns type           |infix                 |                   |23C0        |
 |\|..>             |cacheable message type returns type |prefix                |                   |23C0        |
 |-->               |message received                    |prefix                |^p                 |23C0        |
-|?                 |cases                               |seperator             |                   |23C0        |
-|[V]               |alterative cases                    |seperator             |                   |23C0        |
+|<--               |be                                  |infix                 |                   |23C0        |
+|?                 |cases                               |seperator             |[?]                |23C0        |
+|[V]               |alterative cases                    |seperator             |? and [?]          |23C0        |
 |[?]               |end cases                           |terminator            |                   |23C0        |
 |^p                |another message handler             |seperator for handlers|                   |23C0        |
 
