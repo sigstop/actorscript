@@ -1,7 +1,7 @@
 
 |ASCII string      |Read as                             |Category              |Matching Delimiters|Unicode(hex)|
 |------------------|------------------------------------|----------------------|-------------------|------------|
-|#                 |end                                 |top level terminator  |                   |[32DA]      |
+|#                 |end                                 |top level terminator  |                   |[25AE]      |
 |:                 |of specified type                   |infix                 |                   |[003A]      |
 |[:]               |this Actor's aspect                 |prefix                |                   |[2360]      |
 |(<)               |injection                           |infix                 |                   |23C0        |
@@ -20,6 +20,6 @@
 |^p                |another message handler             |seperator for handlers|                   |23C0        |
 
 
-[003A]:http://www.fileformat.info/info/unicode/char/003a/index.htm
+[25AE]:http://www.fileformat.info/info/unicode/char/25ae/index.htm
 [2360]:http://www.fileformat.info/info/unicode/char/2360/index.htm
 [32DA]:http://www.fileformat.info/info/unicode/char/32da/index.htm
