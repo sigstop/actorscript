@@ -1,5 +1,5 @@
 
-|ASCII/UTF-8 string|Read as                             |Category            |Matching Delimiters|Unicode(hex)|
+|ASCII string      |Read as                             |Category            |Matching Delimiters|Unicode(hex)|
 |------------------|------------------------------------|--------------------|-------------------|------------|
 |#                 |end                                 |top level terminator|                   |[32DA]      |
 |:                 |of specified type                   |infix               |                   |[003A]      |
