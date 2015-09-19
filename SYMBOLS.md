@@ -12,7 +12,7 @@
 |\|_\|             |necessarily concurrent              |prefix                |                   |29B7        |
 |\|->              |message type returns type           |infix                 |                   |23C0        |
 |\|..>             |cacheable message type returns type |prefix                |                   |23C0        |
-|-->               |message received                    |prefix                |                   |23C0        |
+|-->               |message received                    |prefix                |^p                 |23C0        |
 |?                 |cases                               |seperator             |                   |23C0        |
 |[V]               |alterative cases                    |seperator             |                   |23C0        |
 |[?]               |end cases                           |terminator            |                   |23C0        |
