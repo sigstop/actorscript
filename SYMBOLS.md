@@ -7,3 +7,8 @@
 |(<)               |injection                    |infix               |                   |23C0        |
 |(>)               |expression/pattern projection|infix               |                   |23C0        |
 |^V                |resolve                      |prefix              |                   |23C0        |
+|^V                |resolve                      |prefix              |                   |23C0        |
+|^V                |resolve                      |prefix              |                   |23C0        |
+|^V                |resolve                      |prefix              |                   |23C0        |
+|^V                |resolve                      |prefix              |                   |23C0        |
+|^V                |resolve                      |prefix              |                   |23C0        |
