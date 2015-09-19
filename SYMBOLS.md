@@ -8,8 +8,8 @@
 |(>)               |expression/pattern projection|infix               |                   |23C0        |
 |[.]               |qualified by                 |infix               |                   |22A1        |
 |.                 |is sent                      |infix               |                   |            |
-|^V                |resolve                      |prefix              |                   |23C0        |
-|^V                |resolve                      |prefix              |                   |23C0        |
+|..                |delegate to this Actor       |prefix              |                   |23C0        |
+|\|_\|                |resolve                      |prefix              |                   |23C0        |
 |^V                |resolve                      |prefix              |                   |23C0        |
 |^V                |resolve                      |prefix              |                   |23C0        |
 
