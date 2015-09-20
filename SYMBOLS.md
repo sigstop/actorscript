@@ -13,8 +13,8 @@
 |\|*\|             |necessarily concurrent              |prefix                |                   |[25A1]       |
 |\|->              |message type returns type           |infix                 |                   |[21A6]       |
 |\|..>             |cacheable message type returns type |prefix                |                   |[007C](http://www.fileformat.info/info/unicode/char/007c/index.htm)  [002E](http://www.fileformat.info/info/unicode/char/002e/index.htm)  [002E](http://www.fileformat.info/info/unicode/char/002e/index.htm) [003E](http://www.fileformat.info/info/unicode/char/003e/index.htm) **or** [21E2](http://www.fileformat.info/info/unicode/char/21e2/index.htm)         |
-|-->               |message received                    |prefix                |^p                 |23C0         |
-|<--               |be                                  |infix                 |                   |23C0         |
+|-->               |message received                    |prefix                |^p                 |[2192]       |
+|<--               |be                                  |infix                 |                   |[2190]       |
 |?                 |cases                               |seperator             |[?]                |23C0         |
 |[V]               |alterative cases                    |seperator             |? and **catch**[?] |23C0         |
 |[?]               |end cases                           |terminator            |                   |23C0         |
@@ -61,6 +61,8 @@
 [003E]:http://www.fileformat.info/info/unicode/char/003e/index.htm
 [003A]:http://www.fileformat.info/info/unicode/char/003a/index.htm
 [007C]:http://www.fileformat.info/info/unicode/char/007c/index.htm
+[2190]:http://www.fileformat.info/info/unicode/char/2190/index.htm
+[2192]:http://www.fileformat.info/info/unicode/char/2192/index.htm
 [21A6]:http://www.fileformat.info/info/unicode/char/21a6/index.htm
 [21E2]:http://www.fileformat.info/info/unicode/char/21e2/index.htm
 [2360]:http://www.fileformat.info/info/unicode/char/2360/index.htm
