@@ -9,7 +9,7 @@
 |!                 |resolve                             |prefix                |                   |[2B63]       |
 |[.]               |qualified by                        |infix                 |                   |[22A1]       |
 |.                 |is sent                             |infix                 |                   |[002E]       |
-|..                |delegate to this Actor              |prefix                |                   |[002E](http://www.fileformat.info/info/unicode/char/002e/index.htm) [002E](http://www.fileformat.info/info/unicode/char/002e/index.htm)  |
+|..                |delegate to this Actor              |prefix                |                   |[002E](http://www.fileformat.info/info/unicode/char/002e/index.htm) [002E](http://www.fileformat.info/info/unicode/char/002e/index.htm) **or** [2025](http://www.fileformat.info/info/unicode/char/2025/index.htm) |
 |\|*\|             |necessarily concurrent              |prefix                |                   |[25A1]       |
 |\|->              |message type returns type           |infix                 |                   |[21A6]       |
 |\|..>             |cacheable message type returns type |prefix                |                   |[007C](http://www.fileformat.info/info/unicode/char/007c/index.htm)  [002E](http://www.fileformat.info/info/unicode/char/002e/index.htm)  [002E](http://www.fileformat.info/info/unicode/char/002e/index.htm) [003E](http://www.fileformat.info/info/unicode/char/003e/index.htm) **or** [21E2](http://www.fileformat.info/info/unicode/char/21e2/index.htm)         |
