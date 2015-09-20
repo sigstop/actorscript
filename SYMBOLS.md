@@ -16,8 +16,8 @@
 |-->               |message received                    |prefix                |^p unicode [00B6]  |[2192]       |
 |<--               |be                                  |infix                 |                   |[2190]       |
 |?                 |cases                               |seperator             |[?] unicode [2370] |[FFFD]       |
-|[V]               |alterative cases                    |seperator             |? unicode [FFFD] and **catch**[?] unicode [2370]|[27CF]       |
-|[?]               |end cases                           |terminator            |                   |[2370]       |
+|[V]               |alterative cases                    |seperator             |? unicode [FFFD] and [?] unicode [2370]|[27CF]       |
+|[?]               |end cases                           |terminator            |? unicode [FFFD] and **catch**[?] unicode [2370]|[27CF]                    |[2370]       |
 |^p                |another message handler             |seperator for handlers|                   |[00B6]       |
 |^s                |end handlers                        |terminator            |**implements**     |[00A7]       |
 |(:)               |case                                |seperator for case    |                   |[2982]       |
