@@ -40,7 +40,7 @@
 |(\|               |begin syntax                        |left delimiter        |\|) unicode [2986] |[2985]       |
 |(-)               |nothing                             |expression            |                   |[229D]       |
 |<<-               |one-way send                        |infix                 |                   |[219E]       |
-|->>               |one-way receive                     |infix                 |^p                 |[21A0]       |
+|->>               |one-way receive                     |infix                 |^p unicode [00B6]  |[21A0]       |
 |\|_\|             |join                                |infix                 |                   |[2294]         |
 |[<=]              |constrained by                      |infix                 |                   |[2291]         |
 |[>=]              |extends                             |infix                 |                   |[2292]         |
