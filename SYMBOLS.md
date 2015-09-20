@@ -34,8 +34,8 @@
 |!!!               |spread                              |prefix                |                   |[2A5B]       |
 |{                 |begin set                           |left delimiter        |} unicode [007D]   |[007B]       |
 |[                 |begin list                          |left delimiter        |] unicode [005D]   |[005B]       |
-|{                 |begin set                           |left delimiter        |}                  |             |
-|[\|               |array reference                     |left delimiter        |\|]                |             |
+|{\|               |begin multi-set                     |left delimiter        |\|} (unicode [2984]) |[2983]             |
+|[\|               |array reference                     |left delimiter        |\|] unicode [27E7]               |[27E6]             |
 |(                 |begin grouping                      |left delimiter        |)                  |             |
 |(\|               |begin syntax                        |left delimiter        |\|)                |             |
 |(-)               |nothing                             |expression            |                   |229D         |
@@ -84,7 +84,11 @@
 [25B9]:http://www.fileformat.info/info/unicode/char/25b9/index.htm
 [25C3]:http://www.fileformat.info/info/unicode/char/25c3/index.htm
 [27CF]:http://www.fileformat.info/info/unicode/char/27cf/index.htm
+[27E6]:http://www.fileformat.info/info/unicode/char/27e6/index.htm
+[27E7]:http://www.fileformat.info/info/unicode/char/27e7/index.htm
 [2982]:http://www.fileformat.info/info/unicode/char/2982/index.htm
+[2983]:http://www.fileformat.info/info/unicode/char/2983/index.htm
+[2984]:http://www.fileformat.info/info/unicode/char/2984/index.htm
 [29C0]:http://www.fileformat.info/info/unicode/char/29C0/index.htm
 [29C1]:http://www.fileformat.info/info/unicode/char/29C1/index.htm
 [2B63]:http://www.fileformat.info/info/unicode/char/2b63/index.htm
