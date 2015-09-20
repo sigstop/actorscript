@@ -15,7 +15,7 @@
 |\|..>             |cacheable message type returns type |prefix                |                   |[007C](http://www.fileformat.info/info/unicode/char/007c/index.htm)  [002E](http://www.fileformat.info/info/unicode/char/002e/index.htm)  [002E](http://www.fileformat.info/info/unicode/char/002e/index.htm) [003E](http://www.fileformat.info/info/unicode/char/003e/index.htm) **or** [21E2](http://www.fileformat.info/info/unicode/char/21e2/index.htm)         |
 |-->               |message received                    |prefix                |^p                 |[2192]       |
 |<--               |be                                  |infix                 |                   |[2190]       |
-|?                 |cases                               |seperator             |[?]                |23C0         |
+|?                 |cases                               |seperator             |[?]                |[FFFD]         |
 |[V]               |alterative cases                    |seperator             |? and **catch**[?] |23C0         |
 |[?]               |end cases                           |terminator            |                   |23C0         |
 |^p                |another message handler             |seperator for handlers|                   |23C0         |
@@ -72,3 +72,4 @@
 [2B63]:http://www.fileformat.info/info/unicode/char/2b63/index.htm
 [22A1]:http://www.fileformat.info/info/unicode/char/22a1/index.htm
 [2BC3]:http://www.fileformat.info/info/unicode/char/2bc3/index.htm
+[FFFD]:http://www.fileformat.info/info/unicode/char/fffd/index.htm
