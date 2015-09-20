@@ -20,8 +20,8 @@
 |^p                |another message handler             |seperator for handlers|                   |23C0         |
 |^s                |end handlers                        |terminator            |**implements**     |23C0         |
 |(:)               |case                                |seperator for case    |                   |2982         |
-|@                 |before                              |seperator             |**Let** bindings, **Do** preperations, **Enqueue**|[2BC3]         |
-
+|@     |before                  |seperator             |**Let** bindings, **Do** preperations, **Enqueue**|[2BC3]|
+|()                |end                                 |terminator            |**Do** expressions and (:) |2982 |
 
 [25AE]:http://www.fileformat.info/info/unicode/char/25ae/index.htm
 [003A]:http://www.fileformat.info/info/unicode/char/003a/index.htm
