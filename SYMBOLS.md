@@ -18,7 +18,7 @@
 |?                 |cases                               |seperator             |[?]                |[FFFD]         |
 |[V]               |alterative cases                    |seperator             |? and **catch**[?] |[27CF]         |
 |[?]               |end cases                           |terminator            |                   |[2370]       |
-|^p                |another message handler             |seperator for handlers|                   |23C0         |
+|^p                |another message handler             |seperator for handlers|                   |[00B6]       |
 |^s                |end handlers                        |terminator            |**implements**     |23C0         |
 |(:)               |case                                |seperator for case    |                   |2982         |
 |@     |before                  |seperator             |**Let** bindings, **Do** preperations, **Enqueue**|[2BC3]|
@@ -61,6 +61,7 @@
 [003E]:http://www.fileformat.info/info/unicode/char/003e/index.htm
 [003A]:http://www.fileformat.info/info/unicode/char/003a/index.htm
 [007C]:http://www.fileformat.info/info/unicode/char/007c/index.htm
+[00B6]:http://www.fileformat.info/info/unicode/char/00b6/index.htm
 [2190]:http://www.fileformat.info/info/unicode/char/2190/index.htm
 [2192]:http://www.fileformat.info/info/unicode/char/2192/index.htm
 [21A6]:http://www.fileformat.info/info/unicode/char/21a6/index.htm
