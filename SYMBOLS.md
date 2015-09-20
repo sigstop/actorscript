@@ -26,7 +26,7 @@
 |===               |defined as                          |infix                 |**implements**     |[2261]       |
 |=^=               |to be                               |infix                 |                   |[225C]       |
 |:=                |is assigned                         |infix                 |                   |2254         |
-|$$                |matches value of                    |prefix                |                   |2254         |
+|$$                |matches value of                    |prefix                |                   |[0024]() [0024]() **or** [1F441]         |
 |=                 |same as                             |infix                 |                   |2254         |
 |[=]               |keyword **or** field                |infix                 |                   |2238         |
 |:[=]              |assignable field                    |infix                 |                   |             |
@@ -81,3 +81,4 @@
 [2BC3]:http://www.fileformat.info/info/unicode/char/2bc3/index.htm
 [FF61]:http://www.fileformat.info/info/unicode/char/ff61/index.htm
 [FFFD]:http://www.fileformat.info/info/unicode/char/fffd/index.htm
+[1F441]:http://www.fileformat.info/info/unicode/char/1f441/index.htm
