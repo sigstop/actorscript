@@ -13,16 +13,16 @@
 |\|*\|             |necessarily concurrent              |prefix                |                   |[25A1]       |
 |\|->              |message type returns type           |infix                 |                   |[21A6]       |
 |\|..>             |cacheable message type returns type |prefix                |                   |[007C](http://www.fileformat.info/info/unicode/char/007c/index.htm)  [002E](http://www.fileformat.info/info/unicode/char/002e/index.htm)  [002E](http://www.fileformat.info/info/unicode/char/002e/index.htm) [003E](http://www.fileformat.info/info/unicode/char/003e/index.htm) **or** [21E2](http://www.fileformat.info/info/unicode/char/21e2/index.htm)         |
-|-->               |message received                    |prefix                |^p                 |[2192]       |
+|-->               |message received                    |prefix                |^p unicode [00B6]  |[2192]       |
 |<--               |be                                  |infix                 |                   |[2190]       |
-|?                 |cases                               |seperator             |[?]                |[FFFD]       |
-|[V]               |alterative cases                    |seperator             |? and **catch**[?] |[27CF]       |
+|?                 |cases                               |seperator             |[?] unicode [2370] |[FFFD]       |
+|[V]               |alterative cases                    |seperator             |? unicode [FFFD] and **catch**[?] unicode [2370]|[27CF]       |
 |[?]               |end cases                           |terminator            |                   |[2370]       |
 |^p                |another message handler             |seperator for handlers|                   |[00B6]       |
 |^s                |end handlers                        |terminator            |**implements**     |[00A7]       |
 |(:)               |case                                |seperator for case    |                   |[2982]       |
 |@     |before                  |seperator             |**Let** bindings, **Do** preperations, **Enqueue**|[2BC3]|
-|()                |end                                 |terminator            |**Do** expressions and (:) |[FF61]|
+|()                |end                                 |terminator            |**Do** expressions and (:) unicode [2982] |[FF61]|
 |===               |defined as                          |infix                 |**implements**     |[2261]       |
 |=^=               |to be                               |infix                 |                   |[225C]       |
 |:=                |is assigned                         |infix                 |                   |[2254]         |
@@ -52,7 +52,7 @@
 |\|-               |assets                              |prefix **and** infix  |                   |[22A2]         |
 |\|\|-             |goal                                |prefix **and** infix  |                   |[22A9]         |
 |//                |begin 1-line comment                |prefix                |EndOfLine charater |[002F](http://www.fileformat.info/info/unicode/char/002f/index.htm) [002F](http://www.fileformat.info/info/unicode/char/002f/index.htm)            |
-|/*                |begin comment                       |left delimiter        |*/ [002A](http://www.fileformat.info/info/unicode/char/002a/index.htm) [002F](http://www.fileformat.info/info/unicode/char/002f/index.htm)  |[002F](http://www.fileformat.info/info/unicode/char/002f/index.htm) [002A](http://www.fileformat.info/info/unicode/char/002a/index.htm)           |
+|/*                |begin comment                       |left delimiter        |*/ unicode [002A](http://www.fileformat.info/info/unicode/char/002a/index.htm) [002F](http://www.fileformat.info/info/unicode/char/002f/index.htm)  |[002F](http://www.fileformat.info/info/unicode/char/002f/index.htm) [002A](http://www.fileformat.info/info/unicode/char/002a/index.htm)           |
 
 
 
