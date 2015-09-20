@@ -34,10 +34,10 @@
 |!!!               |spread                              |prefix                |                   |[2A5B]       |
 |{                 |begin set                           |left delimiter        |} unicode [007D]   |[007B]       |
 |[                 |begin list                          |left delimiter        |] unicode [005D]   |[005B]       |
-|{\|               |begin multi-set                     |left delimiter        |\|} (unicode [2984]) |[2983]             |
-|[\|               |array reference                     |left delimiter        |\|] unicode [27E7]               |[27E6]             |
-|(                 |begin grouping                      |left delimiter        |)                  |             |
-|(\|               |begin syntax                        |left delimiter        |\|)                |             |
+|{\|               |begin multi-set                     |left delimiter        |\|} unicode [2984] |[2983]       |
+|[\|               |array reference                     |left delimiter        |\|] unicode [27E7] |[27E6]       |
+|(                 |begin grouping                      |left delimiter        |) unicode [0029]   |[0028]       |
+|(\|               |begin syntax                        |left delimiter        |\|) unicode [2986] |[2985]       |
 |(-)               |nothing                             |expression            |                   |229D         |
 |<<-               |one-way send                        |infix                 |                   |219E         |
 |->>               |one-way receive                     |infix                 |^p                 |21A0         |
@@ -57,6 +57,8 @@
 
 
 [0024]:http://www.fileformat.info/info/unicode/char/0024/index.htm
+[0028]:http://www.fileformat.info/info/unicode/char/0028/index.htm
+[0029]:http://www.fileformat.info/info/unicode/char/0029/index.htm
 [002E]:http://www.fileformat.info/info/unicode/char/002e/index.htm
 [003D]:http://www.fileformat.info/info/unicode/char/003d/index.htm
 [003E]:http://www.fileformat.info/info/unicode/char/003e/index.htm
@@ -89,6 +91,8 @@
 [2982]:http://www.fileformat.info/info/unicode/char/2982/index.htm
 [2983]:http://www.fileformat.info/info/unicode/char/2983/index.htm
 [2984]:http://www.fileformat.info/info/unicode/char/2984/index.htm
+[2985]:http://www.fileformat.info/info/unicode/char/2985/index.htm
+[2986]:http://www.fileformat.info/info/unicode/char/2986/index.htm
 [29C0]:http://www.fileformat.info/info/unicode/char/29C0/index.htm
 [29C1]:http://www.fileformat.info/info/unicode/char/29C1/index.htm
 [2B63]:http://www.fileformat.info/info/unicode/char/2b63/index.htm
