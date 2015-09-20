@@ -33,7 +33,10 @@
 |\\\|/             |spread                              |prefix                |                   |2A5B         |
 |{                 |begin set                           |left delimiter        |}                  |             |
 |[                 |begin list                          |left delimiter        |]                  |             |
-|{\|               |begin multi-set                     |left delimiter        |\|}                |             |
+|{                 |begin set                           |left delimiter        |}                  |             |
+|[\|               |array reference                     |left delimiter        |\|]                |             |
+|(                 |begin grouping                      |left delimiter        |)                  |             |
+|(\|               |begin syntax                        |left delimiter        |\|)                |             |
 
 
 [25AE]:http://www.fileformat.info/info/unicode/char/25ae/index.htm
