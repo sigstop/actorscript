@@ -87,7 +87,7 @@
 [225C]:http://www.fileformat.info/info/unicode/char/225c/index.htm
 [2261]:http://www.fileformat.info/info/unicode/char/2261/index.htm
 [2291]:http://www.fileformat.info/info/unicode/char/2291/index.htm
-[2292]:http://www.fileformat.info/info/unicode/char/2291/index.htm
+[2292]:http://www.fileformat.info/info/unicode/char/2292/index.htm
 [2294]:http://www.fileformat.info/info/unicode/char/2294/index.htm
 [229D]:http://www.fileformat.info/info/unicode/char/229d/index.htm
 [22A2]:http://www.fileformat.info/info/unicode/char/22a2/index.htm
