@@ -15,15 +15,15 @@
 |\|..>             |cacheable message type returns type |prefix                |                   |[007C](http://www.fileformat.info/info/unicode/char/007c/index.htm)  [002E](http://www.fileformat.info/info/unicode/char/002e/index.htm)  [002E](http://www.fileformat.info/info/unicode/char/002e/index.htm) [003E](http://www.fileformat.info/info/unicode/char/003e/index.htm) **or** [21E2](http://www.fileformat.info/info/unicode/char/21e2/index.htm)         |
 |-->               |message received                    |prefix                |^p                 |[2192]       |
 |<--               |be                                  |infix                 |                   |[2190]       |
-|?                 |cases                               |seperator             |[?]                |[FFFD]         |
-|[V]               |alterative cases                    |seperator             |? and **catch**[?] |[27CF]         |
+|?                 |cases                               |seperator             |[?]                |[FFFD]       |
+|[V]               |alterative cases                    |seperator             |? and **catch**[?] |[27CF]       |
 |[?]               |end cases                           |terminator            |                   |[2370]       |
 |^p                |another message handler             |seperator for handlers|                   |[00B6]       |
 |^s                |end handlers                        |terminator            |**implements**     |[00A7]       |
-|(:)               |case                                |seperator for case    |                   |[2982]         |
+|(:)               |case                                |seperator for case    |                   |[2982]       |
 |@     |before                  |seperator             |**Let** bindings, **Do** preperations, **Enqueue**|[2BC3]|
-|()                |end                                 |terminator            |**Do** expressions and (:) |[FF61] |
-|===               |defined as                          |infix                 |**implements**     |23C0         |
+|()                |end                                 |terminator            |**Do** expressions and (:) |[FF61]|
+|===               |defined as                          |infix                 |**implements**     |[2261]       |
 |=^=               |to be                               |infix                 |                   |225C         |
 |:=                |is assigned                         |infix                 |                   |2254         |
 |$$                |matches value of                    |prefix                |                   |2254         |
@@ -67,6 +67,7 @@
 [2192]:http://www.fileformat.info/info/unicode/char/2192/index.htm
 [21A6]:http://www.fileformat.info/info/unicode/char/21a6/index.htm
 [21E2]:http://www.fileformat.info/info/unicode/char/21e2/index.htm
+[2261]:http://www.fileformat.info/info/unicode/char/2261/index.htm
 [2360]:http://www.fileformat.info/info/unicode/char/2360/index.htm
 [2370]:http://www.fileformat.info/info/unicode/char/2370/index.htm
 [25A1]:http://www.fileformat.info/info/unicode/char/25a1/index.htm
