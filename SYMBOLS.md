@@ -76,7 +76,7 @@
 [2190]:http://www.fileformat.info/info/unicode/char/2190/index.htm
 [2192]:http://www.fileformat.info/info/unicode/char/2192/index.htm
 [219E]:http://www.fileformat.info/info/unicode/char/219e/index.htm
-[21A0]:http://www.fileformat.info/info/unicode/char/21a6/index.htm
+[21A0]:http://www.fileformat.info/info/unicode/char/21a0/index.htm
 [21A6]:http://www.fileformat.info/info/unicode/char/21a6/index.htm
 [21D2]:http://www.fileformat.info/info/unicode/char/21d2/index.htm
 [21D4]:http://www.fileformat.info/info/unicode/char/21d4/index.htm
