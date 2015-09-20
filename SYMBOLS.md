@@ -23,6 +23,14 @@
 |@     |before                  |seperator             |**Let** bindings, **Do** preperations, **Enqueue**|[2BC3]|
 |()                |end                                 |terminator            |**Do** expressions and (:) |2982 |
 |===               |defined as                          |infix                 |**implements**     |23C0         |
+|=^=               |to be                               |infix                 |                   |225C         |
+|:=                |is assigned                         |infix                 |                   |2254         |
+|$$                |matches value of                    |prefix                |                   |2254         |
+|=                 |same as                             |infix                 |                   |2254         |
+|[=]               |keyword **or** field                |infix                 |                   |2238         |
+|:[=]              |assignable field                    |infix                 |                   |             |
+|<\|               |begin type parameters               |left delimiter         |\|>               |             |
+|\|>               |begin type parameters               |right delimiter        |<\|               |             |
 
 [25AE]:http://www.fileformat.info/info/unicode/char/25ae/index.htm
 [003A]:http://www.fileformat.info/info/unicode/char/003a/index.htm
