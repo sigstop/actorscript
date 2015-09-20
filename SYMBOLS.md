@@ -31,6 +31,7 @@
 |:[=]              |assignable field                    |infix                 |                   |             |
 |<\|               |begin type parameters               |left delimiter        |\|>                |             |
 |\|>               |end   type parameters               |right delimiter       |<\|                |             |
+|\\\|/             |assignable field                    |infix                 |                   |             |
 
 [25AE]:http://www.fileformat.info/info/unicode/char/25ae/index.htm
 [003A]:http://www.fileformat.info/info/unicode/char/003a/index.htm
