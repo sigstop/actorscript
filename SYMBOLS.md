@@ -22,6 +22,7 @@
 |(:)               |case                                |seperator for case    |                   |2982         |
 |@     |before                  |seperator             |**Let** bindings, **Do** preperations, **Enqueue**|[2BC3]|
 |()                |end                                 |terminator            |**Do** expressions and (:) |2982 |
+|===               |defined as                          |infix                 |**implements**     |23C0         |
 
 [25AE]:http://www.fileformat.info/info/unicode/char/25ae/index.htm
 [003A]:http://www.fileformat.info/info/unicode/char/003a/index.htm
