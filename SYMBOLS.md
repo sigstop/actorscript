@@ -30,10 +30,11 @@
 |[=]               |keyword **or** field                |infix                 |                   |2238         |
 |:[=]              |assignable field                    |infix                 |                   |             |
 |<\|               |begin type parameters               |left delimiter        |\|>                |             |
-|\|>               |end   type parameters               |right delimiter       |<\|                |             |
 |\\\|/             |spread                              |prefix                |                   |2A5B         |
 |{                 |begin set                           |left delimiter        |}                  |             |
-|}                 |end set                             |right delimiter       |{                  |             |
+|[                 |begin list                          |left delimiter        |]                  |             |
+|{\|               |begin multi-set                     |left delimiter        |\|}                |             |
+
 
 [25AE]:http://www.fileformat.info/info/unicode/char/25ae/index.htm
 [003A]:http://www.fileformat.info/info/unicode/char/003a/index.htm
