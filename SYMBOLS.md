@@ -22,7 +22,7 @@
 |^s                |end handlers                        |terminator            |**implements**     |[00A7]       |
 |(:)               |case                                |seperator for case    |                   |[2982]         |
 |@     |before                  |seperator             |**Let** bindings, **Do** preperations, **Enqueue**|[2BC3]|
-|()                |end                                 |terminator            |**Do** expressions and (:) |2982 |
+|()                |end                                 |terminator            |**Do** expressions and (:) |[FF61] |
 |===               |defined as                          |infix                 |**implements**     |23C0         |
 |=^=               |to be                               |infix                 |                   |225C         |
 |:=                |is assigned                         |infix                 |                   |2254         |
@@ -77,4 +77,5 @@
 [2B63]:http://www.fileformat.info/info/unicode/char/2b63/index.htm
 [22A1]:http://www.fileformat.info/info/unicode/char/22a1/index.htm
 [2BC3]:http://www.fileformat.info/info/unicode/char/2bc3/index.htm
+[FF61]:http://www.fileformat.info/info/unicode/char/ff61/index.htm
 [FFFD]:http://www.fileformat.info/info/unicode/char/fffd/index.htm
