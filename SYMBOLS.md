@@ -16,7 +16,7 @@
 |-->               |message received                    |prefix                |^p                 |[2192]       |
 |<--               |be                                  |infix                 |                   |[2190]       |
 |?                 |cases                               |seperator             |[?]                |[FFFD]         |
-|[V]               |alterative cases                    |seperator             |? and **catch**[?] |23C0         |
+|[V]               |alterative cases                    |seperator             |? and **catch**[?] |[27CF]         |
 |[?]               |end cases                           |terminator            |                   |[2370]       |
 |^p                |another message handler             |seperator for handlers|                   |23C0         |
 |^s                |end handlers                        |terminator            |**implements**     |23C0         |
@@ -68,6 +68,7 @@
 [2360]:http://www.fileformat.info/info/unicode/char/2360/index.htm
 [2370]:http://www.fileformat.info/info/unicode/char/2370/index.htm
 [25A1]:http://www.fileformat.info/info/unicode/char/25a1/index.htm
+[27CF]:http://www.fileformat.info/info/unicode/char/27cf/index.htm
 [29C0]:http://www.fileformat.info/info/unicode/char/29C0/index.htm
 [29C1]:http://www.fileformat.info/info/unicode/char/29C1/index.htm
 [2B63]:http://www.fileformat.info/info/unicode/char/2b63/index.htm
