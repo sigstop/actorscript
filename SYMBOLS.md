@@ -10,7 +10,7 @@
 |[.]               |qualified by                        |infix                 |                   |[22A1]       |
 |.                 |is sent                             |infix                 |                   |[002E]       |
 |..                |delegate to this Actor              |prefix                |                   |[002E] 002E  |
-|\|*\|             |necessarily concurrent              |prefix                |                   |29B7         |
+|\|*\|             |necessarily concurrent              |prefix                |                   |[25A1]       |
 |\|->              |message type returns type           |infix                 |                   |23C0         |
 |\|..>             |cacheable message type returns type |prefix                |                   |23C0         |
 |-->               |message received                    |prefix                |^p                 |23C0         |
@@ -60,6 +60,7 @@
 [002E]:http://www.fileformat.info/info/unicode/char/002e/index.htm
 [003A]:http://www.fileformat.info/info/unicode/char/003a/index.htm
 [2360]:http://www.fileformat.info/info/unicode/char/2360/index.htm
+[25A1]:http://www.fileformat.info/info/unicode/char/25a1/index.htm
 [29C0]:http://www.fileformat.info/info/unicode/char/29C0/index.htm
 [29C1]:http://www.fileformat.info/info/unicode/char/29C1/index.htm
 [2B63]:http://www.fileformat.info/info/unicode/char/2b63/index.htm
