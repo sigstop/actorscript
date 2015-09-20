@@ -27,7 +27,7 @@
 |=^=               |to be                               |infix                 |                   |[225C]       |
 |:=                |is assigned                         |infix                 |                   |[2254]         |
 |$$                |matches value of                    |prefix                |                   |[0024]() [0024]() **or** [1F441]         |
-|=                 |same as                             |infix                 |                   |2254         |
+|=                 |same as                             |infix                 |                   |[003D]       |
 |[=]               |keyword **or** field                |infix                 |                   |2238         |
 |:[=]              |assignable field                    |infix                 |                   |             |
 |<\|               |begin type parameters               |left delimiter        |\|>                |             |
@@ -58,6 +58,7 @@
 
 [25AE]:http://www.fileformat.info/info/unicode/char/25ae/index.htm
 [002E]:http://www.fileformat.info/info/unicode/char/002e/index.htm
+[003D]:http://www.fileformat.info/info/unicode/char/003d/index.htm
 [003E]:http://www.fileformat.info/info/unicode/char/003e/index.htm
 [003A]:http://www.fileformat.info/info/unicode/char/003a/index.htm
 [007C]:http://www.fileformat.info/info/unicode/char/007c/index.htm
