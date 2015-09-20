@@ -33,7 +33,7 @@
 |<\|               |begin type parameters               |left delimiter        |\|> unicode [25B9] |[25C3]       |
 |!!!               |spread                              |prefix                |                   |[2A5B]       |
 |{                 |begin set                           |left delimiter        |} unicode [007D]   |[007B]       |
-|[                 |begin list                          |left delimiter        |]                  |             |
+|[                 |begin list                          |left delimiter        |] unicode [005D]   |[005B]       |
 |{                 |begin set                           |left delimiter        |}                  |             |
 |[\|               |array reference                     |left delimiter        |\|]                |             |
 |(                 |begin grouping                      |left delimiter        |)                  |             |
@@ -61,6 +61,8 @@
 [003D]:http://www.fileformat.info/info/unicode/char/003d/index.htm
 [003E]:http://www.fileformat.info/info/unicode/char/003e/index.htm
 [003A]:http://www.fileformat.info/info/unicode/char/003a/index.htm
+[005B]:http://www.fileformat.info/info/unicode/char/005b/index.htm
+[005D]:http://www.fileformat.info/info/unicode/char/005d/index.htm
 [007B]:http://www.fileformat.info/info/unicode/char/007b/index.htm
 [007C]:http://www.fileformat.info/info/unicode/char/007c/index.htm
 [007D]:http://www.fileformat.info/info/unicode/char/007d/index.htm
