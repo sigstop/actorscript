@@ -9,7 +9,7 @@
 |!                 |resolve                             |prefix                |                   |[2B63]       |
 |[.]               |qualified by                        |infix                 |                   |[22A1]       |
 |.                 |is sent                             |infix                 |                   |[002E]       |
-|..                |delegate to this Actor              |prefix                |                   |[002E][002E] |
+|..                |delegate to this Actor              |prefix                |                   |[002E002E]   |
 |\|*\|             |necessarily concurrent              |prefix                |                   |29B7         |
 |\|->              |message type returns type           |infix                 |                   |23C0         |
 |\|..>             |cacheable message type returns type |prefix                |                   |23C0         |
