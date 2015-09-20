@@ -30,7 +30,7 @@
 |[=]               |keyword **or** field                |infix                 |                   |2238         |
 |:[=]              |assignable field                    |infix                 |                   |             |
 |<\|               |begin type parameters               |left delimiter        |\|>                |             |
-|\\\|/             |spread                              |prefix                |                   |2A5B         |
+|!!!               |spread                              |prefix                |                   |2A5B         |
 |{                 |begin set                           |left delimiter        |}                  |             |
 |[                 |begin list                          |left delimiter        |]                  |             |
 |{                 |begin set                           |left delimiter        |}                  |             |
@@ -45,6 +45,8 @@
 |[>=]              |extends                             |infix                 |                   |2292         |
 |==>               |logical implication                 |infix                 |                   |21E8         |
 |<=>               |logical equivalence                 |infix                 |                   |21D4         |
+|&                 |logical conjunction                 |infix                 |                   |00D9         |
+|\|\|              |logical disjunction                 |infix                 |                   |00DA         |
 
 
 [25AE]:http://www.fileformat.info/info/unicode/char/25ae/index.htm
