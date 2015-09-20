@@ -38,7 +38,7 @@
 |[\|               |array reference                     |left delimiter        |\|] unicode [27E7] |[27E6]       |
 |(                 |begin grouping                      |left delimiter        |) unicode [0029]   |[0028]       |
 |(\|               |begin syntax                        |left delimiter        |\|) unicode [2986] |[2985]       |
-|(-)               |nothing                             |expression            |                   |229D         |
+|(-)               |nothing                             |expression            |                   |[229D]       |
 |<<-               |one-way send                        |infix                 |                   |219E         |
 |->>               |one-way receive                     |infix                 |^p                 |21A0         |
 |\|_\|             |join                                |infix                 |                   |2294         |
@@ -77,6 +77,7 @@
 [2254]:http://www.fileformat.info/info/unicode/char/2254/index.htm
 [225C]:http://www.fileformat.info/info/unicode/char/225c/index.htm
 [2261]:http://www.fileformat.info/info/unicode/char/2261/index.htm
+[229D]:http://www.fileformat.info/info/unicode/char/229d/index.htm
 [2338]:http://www.fileformat.info/info/unicode/char/2338/index.htm
 [2339]:http://www.fileformat.info/info/unicode/char/2339/index.htm
 [2360]:http://www.fileformat.info/info/unicode/char/2360/index.htm
