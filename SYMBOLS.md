@@ -19,8 +19,8 @@
 |[V]               |alterative cases                    |seperator             |? and **catch**[?] |[27CF]         |
 |[?]               |end cases                           |terminator            |                   |[2370]       |
 |^p                |another message handler             |seperator for handlers|                   |[00B6]       |
-|^s                |end handlers                        |terminator            |**implements**     |23C0         |
-|(:)               |case                                |seperator for case    |                   |2982         |
+|^s                |end handlers                        |terminator            |**implements**     |[00A7]       |
+|(:)               |case                                |seperator for case    |                   |[2982]         |
 |@     |before                  |seperator             |**Let** bindings, **Do** preperations, **Enqueue**|[2BC3]|
 |()                |end                                 |terminator            |**Do** expressions and (:) |2982 |
 |===               |defined as                          |infix                 |**implements**     |23C0         |
@@ -62,6 +62,7 @@
 [003A]:http://www.fileformat.info/info/unicode/char/003a/index.htm
 [007C]:http://www.fileformat.info/info/unicode/char/007c/index.htm
 [00B6]:http://www.fileformat.info/info/unicode/char/00b6/index.htm
+[00A7]:http://www.fileformat.info/info/unicode/char/00a7/index.htm
 [2190]:http://www.fileformat.info/info/unicode/char/2190/index.htm
 [2192]:http://www.fileformat.info/info/unicode/char/2192/index.htm
 [21A6]:http://www.fileformat.info/info/unicode/char/21a6/index.htm
@@ -70,6 +71,7 @@
 [2370]:http://www.fileformat.info/info/unicode/char/2370/index.htm
 [25A1]:http://www.fileformat.info/info/unicode/char/25a1/index.htm
 [27CF]:http://www.fileformat.info/info/unicode/char/27cf/index.htm
+[2982]:http://www.fileformat.info/info/unicode/char/2982/index.htm
 [29C0]:http://www.fileformat.info/info/unicode/char/29C0/index.htm
 [29C1]:http://www.fileformat.info/info/unicode/char/29C1/index.htm
 [2B63]:http://www.fileformat.info/info/unicode/char/2b63/index.htm
