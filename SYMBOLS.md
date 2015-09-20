@@ -12,7 +12,7 @@
 |..                |delegate to this Actor              |prefix                |                   |[002E]() [002E]()  |
 |\|*\|             |necessarily concurrent              |prefix                |                   |[25A1]       |
 |\|->              |message type returns type           |infix                 |                   |[21A6]       |
-|\|..>             |cacheable message type returns type |prefix                |                   |[007C]()  [002E]()  [002E]() [003E]()         |
+|\|..>             |cacheable message type returns type |prefix                |                   |[007C]()  [002E]()  [002E]() [003E]() **or** [21E2]()         |
 |-->               |message received                    |prefix                |^p                 |23C0         |
 |<--               |be                                  |infix                 |                   |23C0         |
 |?                 |cases                               |seperator             |[?]                |23C0         |
@@ -62,6 +62,7 @@
 [003A]:http://www.fileformat.info/info/unicode/char/003a/index.htm
 [007C]:http://www.fileformat.info/info/unicode/char/007c/index.htm
 [21A6]:http://www.fileformat.info/info/unicode/char/21a6/index.htm
+[21E2]:http://www.fileformat.info/info/unicode/char/21e2/index.htm
 [2360]:http://www.fileformat.info/info/unicode/char/2360/index.htm
 [25A1]:http://www.fileformat.info/info/unicode/char/25a1/index.htm
 [29C0]:http://www.fileformat.info/info/unicode/char/29C0/index.htm
