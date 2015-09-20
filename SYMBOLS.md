@@ -31,7 +31,7 @@
 |[=]               |keyword **or** field                |infix                 |                   |[2338]       |
 |:[=]              |assignable field                    |infix                 |                   |[003A](http://www.fileformat.info/info/unicode/char/003a/index.htm) [2338](http://www.fileformat.info/info/unicode/char/2338/index.htm) **or** [2339]             |
 |<\|               |begin type parameters               |left delimiter        |\|> unicode [25B9] |[25C3]       |
-|!!!               |spread                              |prefix                |                   |2A5B         |
+|!!!               |spread                              |prefix                |                   |[2A5B]       |
 |{                 |begin set                           |left delimiter        |}                  |             |
 |[                 |begin list                          |left delimiter        |]                  |             |
 |{                 |begin set                           |left delimiter        |}                  |             |
@@ -85,6 +85,7 @@
 [29C1]:http://www.fileformat.info/info/unicode/char/29C1/index.htm
 [2B63]:http://www.fileformat.info/info/unicode/char/2b63/index.htm
 [22A1]:http://www.fileformat.info/info/unicode/char/22a1/index.htm
+[2A5B]:http://www.fileformat.info/info/unicode/char/2a5b/index.htm
 [2BC3]:http://www.fileformat.info/info/unicode/char/2bc3/index.htm
 [FF61]:http://www.fileformat.info/info/unicode/char/ff61/index.htm
 [FFFD]:http://www.fileformat.info/info/unicode/char/fffd/index.htm
