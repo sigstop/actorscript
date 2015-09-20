@@ -47,6 +47,12 @@
 |<=>               |logical equivalence                 |infix                 |                   |21D4         |
 |&                 |logical conjunction                 |infix                 |                   |00D9         |
 |\|\|              |logical disjunction                 |infix                 |                   |00DA         |
+|-\|               |logical negation                    |prefix                |                   |00D9         |
+|\|-               |assets                              |prefix **and** infix  |                   |22A2         |
+|\|\|-             |goal                                |prefix **and** infix  |                   |22A9         |
+|//                |begin 1-line comment                |prefix                |EndOfLine charater |             |
+|/*                |begin comment                       |left delimiter        |*/                 |             |
+
 
 
 [25AE]:http://www.fileformat.info/info/unicode/char/25ae/index.htm
