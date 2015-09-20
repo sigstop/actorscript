@@ -65,5 +65,3 @@
 [2B63]:http://www.fileformat.info/info/unicode/char/2b63/index.htm
 [22A1]:http://www.fileformat.info/info/unicode/char/22a1/index.htm
 [2BC3]:http://www.fileformat.info/info/unicode/char/2bc3/index.htm
-
-[002E 002E]:http://www.fileformat.info/info/unicode/char/002e/index.htm
