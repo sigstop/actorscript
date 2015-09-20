@@ -15,9 +15,10 @@
 |-->               |message received                    |prefix                |^p                 |23C0         |
 |<--               |be                                  |infix                 |                   |23C0         |
 |?                 |cases                               |seperator             |[?]                |23C0         |
-|[V]               |alterative cases                    |seperator             |? and [?]          |23C0         |
+|[V]               |alterative cases                    |seperator             |? and *catch*[?]   |23C0         |
 |[?]               |end cases                           |terminator            |                   |23C0         |
 |^p                |another message handler             |seperator for handlers|                   |23C0         |
+|^s                |end handler                         |terminator            |*implements*       |23C0         |
 
 
 [25AE]:http://www.fileformat.info/info/unicode/char/25ae/index.htm
