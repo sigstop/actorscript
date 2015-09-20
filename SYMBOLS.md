@@ -7,7 +7,7 @@
 |(<)               |injection                           |infix                 |                   |[29C0]       |
 |(>)               |expression/pattern projection       |infix                 |                   |[29C1]       |
 |!                 |resolve                             |prefix                |                   |[2B63]       |
-|[.]               |qualified by                        |infix                 |                   |22A1         |
+|[.]               |qualified by                        |infix                 |                   |[22A1]         |
 |.                 |is sent                             |infix                 |                   |             |
 |..                |delegate to this Actor              |prefix                |                   |23C0         |
 |\|*\|             |necessarily concurrent              |prefix                |                   |29B7         |
@@ -62,4 +62,5 @@
 [29C0]:http://www.fileformat.info/info/unicode/char/29C0/index.htm
 [29C1]:http://www.fileformat.info/info/unicode/char/29C1/index.htm
 [2B63]:http://www.fileformat.info/info/unicode/char/2b63/index.htm
+[22A1]:http://www.fileformat.info/info/unicode/char/22a1/index.htm
 [2BC3]:http://www.fileformat.info/info/unicode/char/2bc3/index.htm
