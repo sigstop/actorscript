@@ -39,7 +39,12 @@
 |(\|               |begin syntax                        |left delimiter        |\|)                |             |
 |(-)               |nothing                             |expression            |                   |229D         |
 |<<-               |one-way send                        |infix                 |                   |219E         |
-|->>               |join                                |infix                 |                   |2294         |
+|->>               |one-way receive                     |infix                 |^p                 |21A0         |
+|\|_\|             |join                                |infix                 |                   |2294         |
+|[<=]              |constrained by                      |infix                 |                   |2291         |
+|[>=]              |extends                             |infix                 |                   |2292         |
+|==>               |logical implication                 |infix                 |                   |21E8         |
+|<=>               |logical equivalence                 |infix                 |                   |21D4         |
 
 
 [25AE]:http://www.fileformat.info/info/unicode/char/25ae/index.htm
