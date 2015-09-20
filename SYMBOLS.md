@@ -25,7 +25,7 @@
 |()                |end                                 |terminator            |**Do** expressions and (:) |[FF61]|
 |===               |defined as                          |infix                 |**implements**     |[2261]       |
 |=^=               |to be                               |infix                 |                   |[225C]       |
-|:=                |is assigned                         |infix                 |                   |2254         |
+|:=                |is assigned                         |infix                 |                   |[2254]         |
 |$$                |matches value of                    |prefix                |                   |[0024]() [0024]() **or** [1F441]         |
 |=                 |same as                             |infix                 |                   |2254         |
 |[=]               |keyword **or** field                |infix                 |                   |2238         |
@@ -67,6 +67,7 @@
 [2192]:http://www.fileformat.info/info/unicode/char/2192/index.htm
 [21A6]:http://www.fileformat.info/info/unicode/char/21a6/index.htm
 [21E2]:http://www.fileformat.info/info/unicode/char/21e2/index.htm
+[2254]:http://www.fileformat.info/info/unicode/char/2254/index.htm
 [225C]:http://www.fileformat.info/info/unicode/char/225c/index.htm
 [2261]:http://www.fileformat.info/info/unicode/char/2261/index.htm
 [2360]:http://www.fileformat.info/info/unicode/char/2360/index.htm
