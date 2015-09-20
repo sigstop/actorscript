@@ -26,10 +26,10 @@
 |===               |defined as                          |infix                 |**implements**     |[2261]       |
 |=^=               |to be                               |infix                 |                   |[225C]       |
 |:=                |is assigned                         |infix                 |                   |[2254]         |
-|$$                |matches value of                    |prefix                |                   |[0024]() [0024]() **or** [1F441]         |
+|$$                |matches value of                    |prefix                |                   |[0024](http://www.fileformat.info/info/unicode/char/0024/index.htm) [0024](http://www.fileformat.info/info/unicode/char/0024/index.htm) **or** [1F441]         |
 |=                 |same as                             |infix                 |                   |[003D]       |
 |[=]               |keyword **or** field                |infix                 |                   |[2338]       |
-|:[=]              |assignable field                    |infix                 |                   |[003A]() [2338]() ** or [2339]             |
+|:[=]              |assignable field                    |infix                 |                   |[003A](http://www.fileformat.info/info/unicode/char/003a/index.htm) [2338](http://www.fileformat.info/info/unicode/char/2338/index.htm) **or** [2339]             |
 |<\|               |begin type parameters               |left delimiter        |\|>                |             |
 |!!!               |spread                              |prefix                |                   |2A5B         |
 |{                 |begin set                           |left delimiter        |}                  |             |
@@ -56,7 +56,7 @@
 
 
 
-[25AE]:http://www.fileformat.info/info/unicode/char/25ae/index.htm
+[0024]:http://www.fileformat.info/info/unicode/char/0024/index.htm
 [002E]:http://www.fileformat.info/info/unicode/char/002e/index.htm
 [003D]:http://www.fileformat.info/info/unicode/char/003d/index.htm
 [003E]:http://www.fileformat.info/info/unicode/char/003e/index.htm
@@ -76,6 +76,7 @@
 [2360]:http://www.fileformat.info/info/unicode/char/2360/index.htm
 [2370]:http://www.fileformat.info/info/unicode/char/2370/index.htm
 [25A1]:http://www.fileformat.info/info/unicode/char/25a1/index.htm
+[25AE]:http://www.fileformat.info/info/unicode/char/25ae/index.htm
 [27CF]:http://www.fileformat.info/info/unicode/char/27cf/index.htm
 [2982]:http://www.fileformat.info/info/unicode/char/2982/index.htm
 [29C0]:http://www.fileformat.info/info/unicode/char/29C0/index.htm
