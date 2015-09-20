@@ -9,10 +9,10 @@
 |!                 |resolve                             |prefix                |                   |[2B63]       |
 |[.]               |qualified by                        |infix                 |                   |[22A1]       |
 |.                 |is sent                             |infix                 |                   |[002E]       |
-|..                |delegate to this Actor              |prefix                |                   |[002E] 002E  |
+|..                |delegate to this Actor              |prefix                |                   |[002E]() [002E]()  |
 |\|*\|             |necessarily concurrent              |prefix                |                   |[25A1]       |
 |\|->              |message type returns type           |infix                 |                   |[21A6]       |
-|\|..>             |cacheable message type returns type |prefix                |                   |[007C]()  [002E]()  002E [003E]()         |
+|\|..>             |cacheable message type returns type |prefix                |                   |[007C]()  [002E]()  [002E]() [003E]()         |
 |-->               |message received                    |prefix                |^p                 |23C0         |
 |<--               |be                                  |infix                 |                   |23C0         |
 |?                 |cases                               |seperator             |[?]                |23C0         |
