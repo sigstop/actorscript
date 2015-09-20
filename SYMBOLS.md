@@ -22,4 +22,4 @@
 
 [25AE]:http://www.fileformat.info/info/unicode/char/25ae/index.htm
 [003A]:http://www.fileformat.info/info/unicode/char/003a/index.htm
-[32DA]:http://www.fileformat.info/info/unicode/char/32da/index.htm
+[2360]:http://www.fileformat.info/info/unicode/char/2360/index.htm
