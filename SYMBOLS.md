@@ -4,8 +4,9 @@
 |#                 |end                                 |top level terminator  |                   |[25AE]       |
 |:                 |of specified type                   |infix                 |                   |[003A]       |
 |[:]               |this Actor's aspect                 |prefix                |                   |[2360]       |
-|(<)               |injection                           |infix                 |                   |23C0         |
-|(>)               |expression/pattern projection       |infix                 |                   |23C0         |
+|(<)               |injection                           |infix                 |                   |[29C0]       |
+|(>)               |expression/pattern projection       |infix                 |                   |[29C1]       |
+|!                 |resolve                             |prefix                |                   |[2139]       |
 |[.]               |qualified by                        |infix                 |                   |22A1         |
 |.                 |is sent                             |infix                 |                   |             |
 |..                |delegate to this Actor              |prefix                |                   |23C0         |
@@ -58,4 +59,7 @@
 [25AE]:http://www.fileformat.info/info/unicode/char/25ae/index.htm
 [003A]:http://www.fileformat.info/info/unicode/char/003a/index.htm
 [2360]:http://www.fileformat.info/info/unicode/char/2360/index.htm
+[29C0]:http://www.fileformat.info/info/unicode/char/29C0/index.htm
+[29C1]:http://www.fileformat.info/info/unicode/char/29C1/index.htm
+[2139]:http://www.fileformat.info/info/unicode/char/2139/index.htm
 [2BC3]:http://www.fileformat.info/info/unicode/char/2bc3/index.htm
