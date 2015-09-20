@@ -9,7 +9,7 @@
 |[.]               |qualified by                        |infix                 |                   |22A1         |
 |.                 |is sent                             |infix                 |                   |             |
 |..                |delegate to this Actor              |prefix                |                   |23C0         |
-|\|_\|             |necessarily concurrent              |prefix                |                   |29B7         |
+|\|*\|             |necessarily concurrent              |prefix                |                   |29B7         |
 |\|->              |message type returns type           |infix                 |                   |23C0         |
 |\|..>             |cacheable message type returns type |prefix                |                   |23C0         |
 |-->               |message received                    |prefix                |^p                 |23C0         |
@@ -37,6 +37,9 @@
 |[\|               |array reference                     |left delimiter        |\|]                |             |
 |(                 |begin grouping                      |left delimiter        |)                  |             |
 |(\|               |begin syntax                        |left delimiter        |\|)                |             |
+|(-)               |nothing                             |expression            |                   |229D         |
+|<<-               |one-way send                        |infix                 |                   |219E         |
+|->>               |join                                |infix                 |                   |2294         |
 
 
 [25AE]:http://www.fileformat.info/info/unicode/char/25ae/index.htm
