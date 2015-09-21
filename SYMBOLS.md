@@ -32,6 +32,7 @@
 |:=                |is assigned                         |infix                 |                   |[2254]         |
 |$$                |matches value of                    |prefix                |                   |[2315]         |
 |=                 |same as                             |infix                 |                   |[003D]       |
+|!=                |different from                      |infix                 |                   |[2260]       |
 |[=]               |keyword **or** field                |infix                 |                   |[2338]       |
 |:[=]              |assignable field                    |infix                 |                   |[003A](http://www.fileformat.info/info/unicode/char/003a/index.htm) [2338](http://www.fileformat.info/info/unicode/char/2338/index.htm) \(ASCII 3A U+2338\) |
 |<\|               |begin type parameters               |left delimiter        |\|> unicode [25B9] |[25C3]       |
@@ -90,6 +91,7 @@
 [2228]:http://www.fileformat.info/info/unicode/char/2228/index.htm
 [2254]:http://www.fileformat.info/info/unicode/char/2254/index.htm
 [225C]:http://www.fileformat.info/info/unicode/char/225c/index.htm
+[2260]:http://www.fileformat.info/info/unicode/char/2260/index.htm
 [2261]:http://www.fileformat.info/info/unicode/char/2261/index.htm
 [2291]:http://www.fileformat.info/info/unicode/char/2291/index.htm
 [2292]:http://www.fileformat.info/info/unicode/char/2292/index.htm
