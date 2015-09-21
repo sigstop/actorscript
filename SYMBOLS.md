@@ -4,7 +4,7 @@
 |#                 |end                                 |top level terminator  |                   |[25AE]       |
 |:                 |of specified type                   |infix                 |                   |[003A]       |
 |[:]               |this Actor with intefrace (aspect)  |prefix                |                   |[2360]       |
-|\0                |reduce (nullables, futures)         |prefix                |                   |[29BE]
+|(0)               |reduce (nullables, futures)         |prefix                |                   |[29BE]
 |(<)               |injection                           |infix                 |                   |[29C0]       |
 |(>)               |expression/pattern projection       |infix                 |                   |[29C1]       |
 |(V)               |down                                |infix                 |                   |[2B63]       |
