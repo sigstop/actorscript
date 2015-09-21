@@ -9,10 +9,10 @@
 |!                 |resolve                             |prefix                |                   |[2B63]       |
 |[.]               |qualified by                        |infix                 |                   |[22A1]       |
 |.                 |is sent                             |infix                 |                   |[002E] \(ASCII 2E\)      |
-|..                |delegate to this Actor              |prefix                |                   |[002E](http://www.fileformat.info/info/unicode/char/002e/index.htm) [002E](http://www.fileformat.info/info/unicode/char/002e/index.htm) |
+|..                |delegate to this Actor              |prefix                |                   |[002E](http://www.fileformat.info/info/unicode/char/002e/index.htm) [002E](http://www.fileformat.info/info/unicode/char/002e/index.htm) \(ASCII 2E 2E\) |
 |\|\|\|           |necessarily concurrent              |prefix                |                   |[25A1]       |
 |\|->              |message type returns type           |infix                 |                   |[21A6]       |
-|\|..>             |cacheable message type returns type |prefix                |                   |[007C](http://www.fileformat.info/info/unicode/char/007c/index.htm)  [002E](http://www.fileformat.info/info/unicode/char/002e/index.htm)  [002E](http://www.fileformat.info/info/unicode/char/002e/index.htm) [003E](http://www.fileformat.info/info/unicode/char/003e/index.htm) |
+|\|..>             |cacheable message type returns type |prefix                |                   |[007C](http://www.fileformat.info/info/unicode/char/007c/index.htm)  [002E](http://www.fileformat.info/info/unicode/char/002e/index.htm)  [002E](http://www.fileformat.info/info/unicode/char/002e/index.htm) [003E](http://www.fileformat.info/info/unicode/char/003e/index.htm) \(ASCII 7C 2E 2E 3E\)|
 |-->               |message received                    |prefix                |^p unicode [00B6]  |[2192]       |
 |<--               |be                                  |infix                 |                   |[2190]       |
 |?                 |cases                               |seperator             |[?] unicode [2370] |[FFFD]       |
@@ -29,7 +29,7 @@
 |$$                |matches value of                    |prefix                |                   |[2315]         |
 |=                 |same as                             |infix                 |                   |[003D]       |
 |[=]               |keyword **or** field                |infix                 |                   |[2338]       |
-|:[=]              |assignable field                    |infix                 |                   |[003A](http://www.fileformat.info/info/unicode/char/003a/index.htm) [2338](http://www.fileformat.info/info/unicode/char/2338/index.htm) |
+|:[=]              |assignable field                    |infix                 |                   |[003A](http://www.fileformat.info/info/unicode/char/003a/index.htm) [2338](http://www.fileformat.info/info/unicode/char/2338/index.htm) \(ASCII 3A U+2338\) |
 |<\|               |begin type parameters               |left delimiter        |\|> unicode [25B9] |[25C3]       |
 |!!!               |spread                              |prefix                |                   |[2A5B]       |
 |{                 |begin set                           |left delimiter        |} unicode [007D]   |[007B]       |
