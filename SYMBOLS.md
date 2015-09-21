@@ -10,7 +10,7 @@
 |[.]               |qualified by                        |infix                 |                   |[22A1]       |
 |.                 |is sent                             |infix                 |                   |[002E]       |
 |..                |delegate to this Actor              |prefix                |                   |[002E](http://www.fileformat.info/info/unicode/char/002e/index.htm) [002E](http://www.fileformat.info/info/unicode/char/002e/index.htm) **or** [2025](http://www.fileformat.info/info/unicode/char/2025/index.htm) |
-|\|*\|             |necessarily concurrent              |prefix                |                   |[25A1]       |
+|\|\|\|           |necessarily concurrent              |prefix                |                   |[25A1]       |
 |\|->              |message type returns type           |infix                 |                   |[21A6]       |
 |\|..>             |cacheable message type returns type |prefix                |                   |[007C](http://www.fileformat.info/info/unicode/char/007c/index.htm)  [002E](http://www.fileformat.info/info/unicode/char/002e/index.htm)  [002E](http://www.fileformat.info/info/unicode/char/002e/index.htm) [003E](http://www.fileformat.info/info/unicode/char/003e/index.htm) **or** [21E2](http://www.fileformat.info/info/unicode/char/21e2/index.htm)         |
 |-->               |message received                    |prefix                |^p unicode [00B6]  |[2192]       |
@@ -26,7 +26,7 @@
 |===               |defined as                          |infix                 |**implements**     |[2261]       |
 |=^=               |to be                               |infix                 |                   |[225C]       |
 |:=                |is assigned                         |infix                 |                   |[2254]         |
-|$$                |matches value of                    |prefix                |                   |[0024](http://www.fileformat.info/info/unicode/char/0024/index.htm) [0024](http://www.fileformat.info/info/unicode/char/0024/index.htm) **or** [1F441]         |
+|$$                |matches value of                    |prefix                |                   |[0024](http://www.fileformat.info/info/unicode/char/0024/index.htm) [0024](http://www.fileformat.info/info/unicode/char/0024/index.htm) **or** [2315]         |
 |=                 |same as                             |infix                 |                   |[003D]       |
 |[=]               |keyword **or** field                |infix                 |                   |[2338]       |
 |:[=]              |assignable field                    |infix                 |                   |[003A](http://www.fileformat.info/info/unicode/char/003a/index.htm) [2338](http://www.fileformat.info/info/unicode/char/2338/index.htm) **or** [2339]             |
@@ -92,6 +92,7 @@
 [229D]:http://www.fileformat.info/info/unicode/char/229d/index.htm
 [22A2]:http://www.fileformat.info/info/unicode/char/22a2/index.htm
 [22A9]:http://www.fileformat.info/info/unicode/char/22a9/index.htm
+[2315]:http://www.fileformat.info/info/unicode/char/2338/index.htm
 [2338]:http://www.fileformat.info/info/unicode/char/2338/index.htm
 [2339]:http://www.fileformat.info/info/unicode/char/2339/index.htm
 [2360]:http://www.fileformat.info/info/unicode/char/2360/index.htm
