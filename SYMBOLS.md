@@ -51,8 +51,8 @@
 |-\|               |logical negation                    |prefix                |                   |[00AC]         |
 |\|-               |assert                              |prefix **and** infix  |                   |[22A2]         |
 |\|\|-             |goal                                |prefix **and** infix  |                   |[22A9]         |
-|//                |begin 1-line comment                |prefix                |EndOfLine charater |[002F](http://www.fileformat.info/info/unicode/char/002f/index.htm) [002F](http://www.fileformat.info/info/unicode/char/002f/index.htm)            |
-|/*                |begin comment                       |left delimiter        |*/ unicode [002A](http://www.fileformat.info/info/unicode/char/002a/index.htm) [002F](http://www.fileformat.info/info/unicode/char/002f/index.htm)  |[002F](http://www.fileformat.info/info/unicode/char/002f/index.htm) [002A](http://www.fileformat.info/info/unicode/char/002a/index.htm)           |
+|//                |begin 1-line comment                |prefix                |EndOfLine charater |[002F](http://www.fileformat.info/info/unicode/char/002f/index.htm) [002F](http://www.fileformat.info/info/unicode/char/002f/index.htm) \(ASCII 2F 2F\)           |
+|/*                |begin comment                       |left delimiter        |*/ unicode [002A](http://www.fileformat.info/info/unicode/char/002a/index.htm) [002F](http://www.fileformat.info/info/unicode/char/002f/index.htm) \(ASCII 2A 2F\) |[002F](http://www.fileformat.info/info/unicode/char/002f/index.htm) [002A](http://www.fileformat.info/info/unicode/char/002a/index.htm) \(ASCII 2F 2A\)         |
 
 
 
