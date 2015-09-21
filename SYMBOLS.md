@@ -16,7 +16,7 @@
 |..                |delegate to this Actor              |prefix                |                   |[002E](http://www.fileformat.info/info/unicode/char/002e/index.htm) [002E](http://www.fileformat.info/info/unicode/char/002e/index.htm) \(ASCII 2E 2E\) |
 |\|\|\|           |necessarily concurrent              |prefix                |                   |[25A1]       |
 |\|->              |message type returns type           |infix                 |                   |[21A6]       |
-|\|..>             |cacheable message type returns type |prefix                |                   |[007C](http://www.fileformat.info/info/unicode/char/007c/index.htm)  [002E](http://www.fileformat.info/info/unicode/char/002e/index.htm)  [002E](http://www.fileformat.info/info/unicode/char/002e/index.htm) [003E](http://www.fileformat.info/info/unicode/char/003e/index.htm) \(ASCII 7C 2E 2E 3E\)|
+|\|..>             |cacheable \|->                      |prefix                |                   |[007C](http://www.fileformat.info/info/unicode/char/007c/index.htm)  [002E](http://www.fileformat.info/info/unicode/char/002e/index.htm)  [002E](http://www.fileformat.info/info/unicode/char/002e/index.htm) [003E](http://www.fileformat.info/info/unicode/char/003e/index.htm) \(ASCII 7C 2E 2E 3E\)|
 |-->               |message received                    |prefix                |^p unicode [00B6]  |[2192]       |
 |<--               |be                                  |infix                 |                   |[2190]       |
 |?                 |cases                               |seperator             |[?] unicode [2370] |[FFFD]       |
