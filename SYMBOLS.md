@@ -9,6 +9,7 @@
 |(>)               |expression/pattern projection       |infix                 |                   |[29C1]       |
 |(V)               |down                                |infix                 |                   |[2B63]       |
 |(V?)              |down query                          |infix                 |                   |[2B63](http://www.fileformat.info/info/unicode/char/2b63/index.htm) [003F] (http://www.fileformat.info/info/unicode/char/003f/index.htm) \(U+2B63 ASCII 3F\)
+|(VV)              |match downed                        |prefix                |                   |[2B63](http://www.fileformat.info/info/unicode/char/2b63/index.htm) [2B63](http://www.fileformat.info/info/unicode/char/2b63/index.htm)|
 |[.]               |qualified by                        |infix                 |                   |[22A1]       |
 |.                 |is sent                             |infix                 |                   |[002E] \(ASCII 2E\)      |
 |..                |delegate to this Actor              |prefix                |                   |[002E](http://www.fileformat.info/info/unicode/char/002e/index.htm) [002E](http://www.fileformat.info/info/unicode/char/002e/index.htm) \(ASCII 2E 2E\) |
