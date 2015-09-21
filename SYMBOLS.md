@@ -21,7 +21,7 @@
 |^p                |another message handler             |seperator for handlers|                   |[00B6]       |
 |^s                |end handlers                        |terminator            |**implements**     |[00A7]       |
 |(:)               |case                                |seperator for case    |                   |[2982]       |
-|@     |before                  |seperator             |**Let** bindings, **Do** preperations, **Enqueue**|[2BC3]|
+|@     |before                  |seperator             |**Let** bindings, **Do** preparations, **Enqueue**|[2BC3]|
 |()                |end                                 |terminator            |**Do** expressions and (:) unicode [2982] |[FF61]|
 |===               |defined as                          |infix                 |**implements**     |[2261]       |
 |=^=               |to be                               |infix                 |                   |[225C]       |
