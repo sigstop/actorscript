@@ -92,7 +92,7 @@
 [229D]:http://www.fileformat.info/info/unicode/char/229d/index.htm
 [22A2]:http://www.fileformat.info/info/unicode/char/22a2/index.htm
 [22A9]:http://www.fileformat.info/info/unicode/char/22a9/index.htm
-[2315]:http://www.fileformat.info/info/unicode/char/2338/index.htm
+[2315]:http://www.fileformat.info/info/unicode/char/2315/index.htm
 [2338]:http://www.fileformat.info/info/unicode/char/2338/index.htm
 [2339]:http://www.fileformat.info/info/unicode/char/2339/index.htm
 [2360]:http://www.fileformat.info/info/unicode/char/2360/index.htm
