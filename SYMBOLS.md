@@ -3,7 +3,8 @@
 |------------------|------------------------------------|----------------------|-------------------|-------------|
 |#                 |end                                 |top level terminator  |                   |[25AE]       |
 |:                 |of specified type                   |infix                 |                   |[003A]       |
-|[:]               |this Actor's aspect                 |prefix                |                   |[2360]       |
+|[:]               |this Actor with intefrace (aspect)  |prefix                |                   |[2360]       |
+|\0                |reduce (nullables, futures)         |prefix                |                   |[29BE]
 |(<)               |injection                           |infix                 |                   |[29C0]       |
 |(>)               |expression/pattern projection       |infix                 |                   |[29C1]       |
 |!                 |resolve                             |prefix                |                   |[2B63]       |
@@ -109,6 +110,7 @@
 [2984]:http://www.fileformat.info/info/unicode/char/2984/index.htm
 [2985]:http://www.fileformat.info/info/unicode/char/2985/index.htm
 [2986]:http://www.fileformat.info/info/unicode/char/2986/index.htm
+[29BE]:http://www.fileformat.info/info/unicode/char/29be/index.htm
 [29C0]:http://www.fileformat.info/info/unicode/char/29C0/index.htm
 [29C1]:http://www.fileformat.info/info/unicode/char/29C1/index.htm
 [2B63]:http://www.fileformat.info/info/unicode/char/2b63/index.htm
