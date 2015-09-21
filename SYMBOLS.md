@@ -8,7 +8,7 @@
 |(>)               |expression/pattern projection       |infix                 |                   |[29C1]       |
 |!                 |resolve                             |prefix                |                   |[2B63]       |
 |[.]               |qualified by                        |infix                 |                   |[22A1]       |
-|.                 |is sent                             |infix                 |                   |[002E] (ASCII 2E)      |
+|.                 |is sent                             |infix                 |                   |[002E] \(ASCII 2E\)      |
 |..                |delegate to this Actor              |prefix                |                   |[002E](http://www.fileformat.info/info/unicode/char/002e/index.htm) [002E](http://www.fileformat.info/info/unicode/char/002e/index.htm) |
 |\|\|\|           |necessarily concurrent              |prefix                |                   |[25A1]       |
 |\|->              |message type returns type           |infix                 |                   |[21A6]       |
