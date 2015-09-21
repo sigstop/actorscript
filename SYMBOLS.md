@@ -1,5 +1,5 @@
 
-|ASCII string      |Read as                             |Category              |Matching Delimiters|Unicode (hex)|
+|Ivan's ASCII string      |Read as                             |Category              |Matching Delimiters|Unicode (hex)|
 |------------------|------------------------------------|----------------------|-------------------|-------------|
 |#                 |end                                 |top level terminator  |                   |[25AE]       |
 |:                 |of specified type                   |infix                 |                   |[003A]       |
