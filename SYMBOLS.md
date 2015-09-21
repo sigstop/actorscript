@@ -10,6 +10,7 @@
 |(V)               |down                                |infix                 |                   |[2B63]       |
 |(V?)              |down query                          |infix                 |                   |[2B63](http://www.fileformat.info/info/unicode/char/2b63/index.htm) [003F] (http://www.fileformat.info/info/unicode/char/003f/index.htm) \(U+2B63 ASCII 3F\)
 |(VV)              |match downed                        |prefix                |                   |[2B63](http://www.fileformat.info/info/unicode/char/2b63/index.htm) [2B63](http://www.fileformat.info/info/unicode/char/2b63/index.htm)|
+|(^)               |up                                  |infix                 |                   |[2191]       |
 |[.]               |qualified by                        |infix                 |                   |[22A1]       |
 |.                 |is sent                             |infix                 |                   |[002E] \(ASCII 2E\)      |
 |..                |delegate to this Actor              |prefix                |                   |[002E](http://www.fileformat.info/info/unicode/char/002e/index.htm) [002E](http://www.fileformat.info/info/unicode/char/002e/index.htm) \(ASCII 2E 2E\) |
@@ -77,6 +78,7 @@
 [00AC]:http://www.fileformat.info/info/unicode/char/00ac/index.htm
 [00B6]:http://www.fileformat.info/info/unicode/char/00b6/index.htm
 [2190]:http://www.fileformat.info/info/unicode/char/2190/index.htm
+[2191]:http://www.fileformat.info/info/unicode/char/2191/index.htm
 [2192]:http://www.fileformat.info/info/unicode/char/2192/index.htm
 [219E]:http://www.fileformat.info/info/unicode/char/219e/index.htm
 [21A0]:http://www.fileformat.info/info/unicode/char/21a0/index.htm
